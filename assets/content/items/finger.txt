@@ -1,0 +1,84 @@
+# con
+"Dogduster" con=350
+
+# int
+"wire" int=2
+"Blood of the Victims" int=275
+
+# int
+"ringlet" int=1
+"thimble" int=2
+"band" int=3
+"ring" int=4
+"tape" int=6
+"poison touch" int=15 poison=1
+"uncut nails" int=40
+"fingerpuppet" int=65
+"painted nails" int=150
+"Family Jewels" int=207
+"Thickly Twisted Wire" int=250
+"Magnetic Gloves" int=300
+"Midas Touch" int=350
+"Mini Black Hole" int=400
+"Saint's Ring" int=500
+
+# str/int
+"knuckle" str=7 int=3
+"knuckleduster" str=25 int=20
+
+# dex/int
+"Egregiously Long Nails" dex=-25 int=275
+"vine ring" dex=50 int=300
+
+# dex/agi
+"Hawk Ring" dex=400 agi=250
+
+# int/luck/str
+"fingerblades" int=30 luk=1 str=30
+
+# int/luck
+"Ring of Slow Digestion" int=350 luk=5
+"miniature world" int=110 luk=3
+"Ring of Death and Life" int=250 str=250 luk=15 crit=1
+
+# int/str
+"Wolverine" int=300 str=300
+
+# idle-class
+"Rebellious Ring of the Idling Gods" luk=200 int=1000 dex=1000 defense=1
+"Red Tearstone Ring" str=2000 dex=2000 int=2000 hp=-10000
+"Ring of Steel Protection" str=100 con=2000 agi=600 aegis=1
+"Hornet Ring" str=200 dex=1600 agi=800 crit=2
+
+# godly-class
+"Earth-sized Diamond" str=12000 agi=-1000 dex=-1000 offense=1 vorpal=1
+"Ring of the Evil Eye" str=4000 con=4000 int=-2000 vampire=1 hpregen=1000
+"Ring of Forfeit" str=-2000 con=-500 int=8000 defense=1 offense=-1 xp=40
+"Ill-Fated Ring" con=4000 agi=4000 int=4000 luk=-2500 crit=-2 gold=-500 offense=2 venom=5 poison=5 vampire=5
+
+# celestial something or another
+"Celestial Circle" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1 shatter=1
+"Celestial Speckled Stoneplate Ring" con=3000 agi=3000 int=4000 defense=2 damageReduction=500 hpregen=200
+"Celestial Silver Serpent Ring" str=1000 dex=1000 con=-2000 agi=1000 int=1000 luk=4000 gold=30 xp=30 sentimentality=1000
+
+# astral something or another
+"Astral Dusk Crown Ring" str=5000 dex=1000 con=2000 agi=-2000 int=12000 hp=-50000 silver=1 power=1 glowing=1
+
+# goatly-class
+"Shut-In's Loop" str=-3000 con=-500 dex=-1000 agi=-2000 int=25025 luk=10000 xp=-30 mpregen=100 poison=2 dance=-1
+
+# artifacts
+"Hydromancer's Lost Ring" con=1000 int=7500 luk=1000 mp=25000 mpregen=2500 prone=3 cReqSmall_Diamond=1 cReqOld_Ring=1
+
+# custom
+"skull ring" str=200
+"Ruby Ring" str=50
+"ring of flames" int=5
+"middle finger extension" offense=1 crit=1 dex=1
+"wedding ring" luk=2 con=2
+"signet ring" luk=5 int=5
+"green thumb" agi=5 dex=5 int=5
+"fish finger" str=5
+"chocolate fingers" crit=1 int=5
+"butter fingers" dex=100
+"Ring of Opportunity" str=100 con=100 dex=100 agi=100 int=100 luk=10 sentimentality=100 gold=100 vector=2 aReqAscended=2

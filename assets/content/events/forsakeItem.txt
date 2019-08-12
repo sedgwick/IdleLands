@@ -1,0 +1,48 @@
+%player dropped %hisher %item in a puddle and it got all dirty!
+%player was having a bad day, and dropped %hisher %item in the dirt.
+In a drunken rage, %player vomited all over %hisher %item.
+%player was attacked by a rogue flying book, and dropped %hisher %item.
+A bowling ball rolled by and knocked %player over, causing %himher to drop %hisher %item.
+A passing camel spit in %player's eye, causing %himher to drop %hisher %item.
+$random:player$ punched %player and %heshe dropped %hisher %item.
+%player threw %hisher %item in a vat of acid, thinking it was some mystical fountain. Really?
+%player woke up in an unknown place, and found scratches and scuffs all over %hisher %item.
+%player tripped on a ceramic jar, causing %himher to drop %hisher %item on the ground, chipping it.
+A brutal child ran up to %player and kicked %himher in the shin, causing %himher to drop to the ground in pain and nearly lose %hisher %item!
+A stampede of wild raccoons toppled %player, causing %himher to drop %hisher %item to the ground, luckily it wasn't stolen..
+A demon named $chance:name:{'middle':true,'prefix':true,'suffix':true}$ decided to play a trick on %player by placing a curse on %hisher %item.
+%player's %item was exposed to spontaneous and strong Gamma radiation, and is now glowing a bright shade of red.
+%player tried using %hisher %item for pleasuring purposes. Needless to say, it didn't end well.
+%player was hit by the salmon rain, and dropped %hisher %item.
+%player was baked into a cupcake, and unfortunately, %hisher %item got one too many bits of confetti on it.
+%player was forced to watch ponies on the moving picture box, and someone snuck up behind %himher and bent %hisher %item.
+%player discovered tumblr on the magic box and left %hisher %item to gather dust and rust.
+%player used what magic %she knew to imbue %hisher %item with extra power!... Unfortunately, it failed, so %hisher %item ended up in worse condition.
+%player spent too long idling while watching a seagull without a left foot hobble around.  %Hisher %item decayed a bit from lack of use.
+Sarda, The Wizard Who Did It made %player's %item worse because of an insult.
+%player's %item started falling apart right after the warranty expired.
+%player thought %heshe could fly. %Hisher %item paid the price.
+$random:player#1$ shoved $random:player#2$ but $random:player#2$'s weight caused $random:player#1$ to fall back on to %player's %item. $random:player#1$'s blood, having been cursed by $dict:deity$, caused %player's %item to tarnish and fall apart in %hisher hand.
+%player dropped %hisher %item and it shattered into a thousand pieces!
+%player sent %hisher %item back to the manufacturer for an upgrade. When %heshe got it back it was in even worse condition!
+%player was told by $random:player$ that if they placed %hisher %item in a microwave for 60 seconds it would result in a huge upgrade. Instead, it resulted in a huge explosion.
+%player clumsily spilled %hisher drink all over %hisher %item. That is going to leave a stain.
+%player dropped %hisher %item off at the cleaners. Needless to say, they did not do a good job.
+A bird overhead left an unpleasant surprise on %player's %item.
+Shashkajze, The God of Items, went fishing, hooked %player's %item. A struggle ensued. After many long minutes the line snapped, but the %item would no longer be the same.
+%player etched a naughty image onto %hisher %item.
+%player defeated a monster with %hisher %item. The monster had acid blood.
+A vengeful spirit possessed %player's %item.
+%player lost a bet against a local $dict:noun$ who used %hisher %item for the next week.
+A magician zapped %player's %item with a hex.
+%player tried using %hisher %item during foreplay. It didn't work.
+%player accidentally had %hisher %item on %himher when jumping into the pool.
+%player got %hisher %item apprehended during class.
+%player took a bite of %hisher %item to see what it tasted like.
+%player used %hisher %item for a party trick, but %heshe broke it instead.
+%player tried spreading a fantastical story about %hisher %item, but nobody believed %himher. This damaged %hisher item metaphorically and literally.
+%player didn't have anything to write on so %heshe used %hisher %item instead.
+%player tried deep-frying %hisher %item to make it taste better. It didn't work.
+%player cut %hisher shaggy locks. Keratux, God of Hair, decided to curse %hisher %item as punishment.
+%player tried sacrificing a few dogs to Ytilsu, The Grand Horror. Ytilsu was disgusted by this and cursed %hisher %item.
+%player made a potion using $dict:reagent#0$, $dict:reagent#1$, and a dash of $dict:reagent#2$. %Heshe poured this concotion onto %hisher %item. It gained a horrendous odor.

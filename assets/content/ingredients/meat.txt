@@ -1,0 +1,24 @@
+"steak" str=10
+"turkey" con=10
+"chicken" agi=10
+"ostrich" int=10
+"worm" luk=10
+"sand" str=-10
+"fish" dex=10
+"ham" con=20
+"snake" int=25
+"boar" str=25
+"pastrami" str=3 dex=3 con=3
+"german schnitzel" str=20 con=40
+"owl" int=20
+"hawk" agi=20
+"bear" str=20
+"lizard" dex=15
+"tofu" int=25
+"veal" dex=10
+"veal" str=15
+"tofurkey" con=12
+"turducken" con=40
+"soylent green" luk=20
+"goldfish" luk=25
+"anchovy" str=10

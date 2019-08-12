@@ -1,0 +1,25 @@
+"white" str=10
+"whole wheat" con=10
+"rye" dex=10
+"kaiser" agi=10
+"cake" int=10
+"pizza" luk=10
+"meatloaf" str=50
+"cardboard" con=-30
+"mystery loaf" int=66
+"twelve grain" con=12
+"rye or the kaiser" int=50 agi=50
+"twelve hundred grain" con=120
+"ciabatta of intelligence" int=80
+"corn" str=16
+"flat" con=20
+"sweet" int=25
+"donut" con=-10
+"corn" con=50
+"shortbread" str=1 dex=1 con=5 agi=5
+"brioche" dex=15
+"panini" luk=18
+"pain" str=50
+"pain de campagne" dex=20 agi=15
+"baguette" con=15 str=5
+"mantou" luk=5 agi=5

@@ -1,0 +1,47 @@
+%player stumbled across %item!
+While stumbling around, %player found a Pokeball with %item inside.
+%player opened a chest and found %item in it.
+%player got %item as a reward for performing a generic fetch quest.
+%player dug around in a skag pile and found %item... Nice.
+%player went dumpster diving and found %item!
+%player found %item while %she raided a dungeon.
+A giant present suddenly dropped from the sky, which %player opened up to find %item inside!
+%player was given %item by a shady magician.
+%player found %item from an enemy corpse that was lying around.
+%player was donated %item to help %himher with %hisher quest!
+%player was bestowed %item after saving a member of royalty from certain death.
+The God of Items, Shashkajze, caused a golden, shimmering %item to appear in front of %player.
+%player broke the seal on a magic crystal, which turned out to contain %item!
+%player saw a strange shooting star fly down to hit the ground nearby, which %she went to the impact crater to find a glowing-hot %item in the middle of it.
+%player opened a crate and found %item in it.  It's like Christmas!
+%player parted a curtain and picks up something saying, "We've got %item over here!"
+%player finished doing %hisher laundry and mourned the loss of a sock to the Dryer Monster.  The clothing gods took pity on %himher...%she found %item instead!
+%player found %item in the backseat of the taxi %she got into.  The previous passenger must have left it behind...
+Sarda, The Wizard Who Did It gave %player a shiny new %item. Everyone was jealous.
+%player ended up fighting with $random:player$ over %item and $random:item#1$. %player ended up keeping %item.
+%player threw a boomerang but the item that came back was something completely different. The item that came back broke %hisher hand but at least %heshe got to keep the %item.
+%player finished a quest and received %item.
+%player took a dump. Before flushing %heshe saw something in %hisher pile and found %item.
+%player killed $random:player#1$ and stole %item.
+%player begged for 5 hours in the trade chat and $random:player#1$ was so annoyed and sent %himher %item.
+%player looked into %hisher pocket and found %hisher lost %item.
+%player found %item hidden beneath a tree.
+%player found a %item when it was sent through Amazon as a surprise for 2 billionth purchase!
+%player found a %item in %hisher cereal box!
+%player went deep sea diving and found a %item in the wreckage of an old ship.
+%player redeemed their voucher for a free %item!
+%player won a carnival game! %She received %item as a prize.
+%player read a clickbait article titled "11 Amazing Tips to Acquire %item". Ten of the tips were ridiculous, but the eleventh actually worked!
+%player found %item along the side of the road. Finders Keepers!
+%player opened a can of beans and found a %item!
+%player was escorting a $random:monster#1$ when they died. %player found a %item on their corpse!
+%player saw a DIY project for a $random:item#1$ but ended up with a %item instead.
+%player was digging graves when %heshe found a buried %item!
+$random:player#1$ got the drop on %player, but $random:player#1$ felt bad and handed %himher a %item!
+%player ordered this month's newtcrate and found a %item inside!
+A strange creature attacked %player, and %heshe found a bone oddly shaped into a %item.
+%player solved a Ruby's Cube, and a %item appeared from it.
+A fugitive ran up to %player and told %himher to "Take this!". %Heshe was handed a %item, and the fugitive ran away.
+%player found %item in the clearance section at Sardamart.
+%player combined $dict:reagent#0$, $dict:reagent#1$, and $dict:reagent#2$ to make a %item!
+%player drank a potion %heshe made from $dict:reagent#0$ and $dict:reagent#1$. %player vomited up a %item. Nice!

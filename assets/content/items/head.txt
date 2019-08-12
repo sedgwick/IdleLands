@@ -1,0 +1,156 @@
+# agi
+"barette" agi=2
+"beret" agi=4
+"cowl" agi=42
+"jet hat" agi=180
+
+# con
+"hat" con=1
+"helm" con=5
+"cap" con=9
+"aventail" con=15
+"hat made of beef" con=300
+"Metal Box" con=600
+"Ye Olde Helm" con=750
+
+# dex
+"aiming goggles" dex=30 crit=1
+"fishbowl" dex=33
+"rose" dex=45
+"magnifying glasses" dex=99
+
+# int
+"mask" int=2
+"cornuthaum" int=35
+"psychic's ribbon" int=150
+"thinking cap" int=250
+"Top Hat" int=450
+"Flying Saucer" int=650
+
+# str
+"coif" str=3
+"flowerpot" str=13
+"mitre" str=40
+"earbuds" str=101
+
+# agi/con
+"diving helm" agi=-20 con=150
+"sombrero" agi=2 con=2
+"cowboy hat" agi=50 con=40
+"backwards baseball cap" agi=100 con=90
+"Headwings" agi=430 con=200
+"Aerodynamic Haircut" agi=840 con=400
+
+# agi / dex
+"pile of hats" dex=25 agi=25
+"cardboard box" agi=50 dex=10
+
+# agi/int
+"paper hat" agi=50 int=20
+
+# con / dex
+"coronet" dex=5 con=5
+"cat ears" con=80 dex=40
+"umbrella hat" con=100 dex=76
+
+# con / int
+"corsage" con=3 int=7
+"glasses" con=4 int=7
+"haircut" con=50 int=50
+"bloody bandages" con=-50 int=300
+"cute animal" con=100 int=90
+"clever disguise" con=80 int=120
+"second brain" con=50 int=250
+"Powdered Wig" con=200 int=200
+"Glamorous Wizard Hat" con=50 int=600
+"Dunce Cap" con=400 int=-50
+"Chap's Monocle" con=400 int=400
+"Holy Mitre" con=450 int=450
+
+# con/luck
+"expensive party hat" con=50 luk=10
+
+# con / str
+"face of death" con=-50 str=250
+"skullcap" con=2 str=2
+"horned cap" con=10 str=20
+"hipster hat" con=60 str=25
+"bladed bowler" con=50 str=80
+"Vice-Versa" con=100 str=400
+"Viking Helmet" con=400 str=400
+
+# dex/str
+"skull" dex=10 str=155
+"dog ears"  dex=30 str=100
+
+# int/str
+"Jungle Rose" int=100 str=200
+"Majora's Mask" int=300 str=200
+
+# int
+"tinfoil hat" int=-20
+"summoner's horn" int=127
+"monocle" int=231
+"technician's magic hat" int=267
+
+# int / dex
+"saucer" int=35 dex=30
+
+# agi/con/luck
+"Fedora" agi=150 con=100 luk=-10
+
+# con/dex/luck
+"Fusion Earring"  con=200 dex=230 luk=10
+"Superscouter 9001" con=400 dex=400 luk=15
+"pile of helms" con=25 dex=25  luk=5
+
+# con/int/luck
+"diadem" con=5 int=9 luk=2
+
+# con/luck/str
+"devil horns" con=6 luk=-3 str=10
+
+#dex/luck/int
+"halo"  dex=10 luk=3 int=5
+
+# mega-hybrid
+"Antiverse Circlet" str=100 int=100 dex=100 con=500 agi=100 deadeye=1
+
+# idle-class
+"Feathered Fez of the Idling Gods" str=500 int=-100 agi=900 dex=1500 con=500 crit=1 deadeye=1 lethal=1
+
+# godly-class
+"Pile Of Hats That Reaches to the Moon" int=3500 agi=2500 luk=500 dex=1500 defense=1
+
+# celestial something or another
+"Celestial Cap" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 defense=1
+
+# goatly-class
+"20/500 Prescription Lenses" int=12000 luk=3900 crit=10 deadeye=5
+
+# custom
+"war paint" str=30 agi=30
+"laurel wreath" str=50 agi=250 int=50 gold=10
+"turtle helmet" str=50 agi=-10 luk=5
+"headband" str=75 dex=75 agi=25
+"bucket" dex=-205 str=200 agi=25 dance=1
+"bandana" dex=8 agi=5
+"mortarboard" int=155
+"pith helmet" con=125 dex=10
+"jester hat" luk=120 dance=1
+"third eye" int=250
+"ribbon" int=35
+"Fabulous Lame Hat" str=100 int=100 dex=100 con=500 agi=100 deadeye=1
+"butt" dex=40 agi=80 luk=2 deadeye=1 dance=1
+"Superscouter 1000001" con=1600 dex=1600 luk=60
+"bonnet" int=1 crit=1 deadeye=1
+"fez" int=500
+"rose-tinted glass" dex=750 int=30 con=-300
+"unicorn horn" con=250 agi=3500 int=3500 luk=250 silver=1 xp=1
+"bird nest" str=225 con=250 agi=-100 luk=-5 defense=1 sentimentality=50
+"squirrel nest" str=100 dex=300 agi=300 sentimentality=50
+"gag" agi=200 luk=69
+"helmet with a candle on top" con=300 defense=1 glowing=3
+"fools cap" luk=2000 dance=15 crit=15 aReqProfessional:_Jester=1
+"huntsman's hat" str=750 dex=2500 con=750 deadeye=1 vorpal=5 power=15 silver=15 aReqProfessional:_Archer=1
+"sweaty headband" str=2500 con=2500 power=20 shatter=2 aReqProfessional:_Barbarian=1

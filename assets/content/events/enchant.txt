@@ -1,0 +1,24 @@
+%player stumbled across a wishing well, threw %hisher %item in, and it became enchanted!
+%player befriended a local enchantress. Because of this, she enchanted %hisher %item at no cost.
+%player had a vision in which %she realized %hisher alter ego lived inside %hisher %item, and that it was enchanted!
+%player read something about an enchanting ritual in a book and buries %hisher %item on a field. Suddenly, thunder strikes the place and after digging it out, %player sees that %hisher %item got enchanted!
+%player prayed for %hisher deity, $dict:deity$, to enchant %hisher %item.  After that tactic didn't pan out, %player got a job crushing baby seals to pay for the enchantment.
+An enchantress approached %player and enchanted %hisher %item, making it glow pretty colors.
+%player used what sorcery %she knew to enchant %hisher %item with extra power!
+Sarda, The Wizard Who Did It enchanted %player's %item to see what would happen.
+%player brought %hisher %item to the Dark Lord, enchanting it with the imbuement of his malice.
+%player sent %hisher %item through the mail to $dict:deity$, and after a while it came back enchanted!
+%player filed paperwork to have %hisher %item enchanted. Six to eight weeks later the paperwork was approved!
+%player accidentally impaled %himherself with %item and it came out sharper!
+A cute little kitten rubbed their head against the %item of %player. The %item got enchanted.
+%player acquired enough obsidian to build an enchantment table. %Hisher %item is now enchanted.
+%player found an enchantment recipe for %hisher %item that oddly did not require any reagents.
+%player sacrificed a few goats to enchant %hisher %item.
+%player buried %hisher %item in the ground, and an enchanted one grew from its place!
+%player won an item enchant in a claw machine! %heshe applied to %hisher %item.
+Tholsqueds decided to wrap %player's %item in enchanted motley.
+%player ate %hisher %item. When it came out the other end, it was enchanted!
+%player caught %hisher %item on fire. Luckily, it was enchanted fire.
+%player left %hisher %item on a carriage. When it was returned, it had a new enchantment!
+%player kissed %hisher %item. The power of love took the form of a new enchant!
+%player made a potion of enchantment using $dict:reagent#0$ and $dict:reagent#1$. %Heshe applied it to %hisher %item.

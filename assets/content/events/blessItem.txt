@@ -1,0 +1,42 @@
+%player cleaned the dirt off of %hisher %item!
+%player cleaned off %hisher %item in a nearby puddle.
+%player brushed the dust off of %hisher %item.
+%player cleaned the rust off of %hisher %item.
+%player dipped %hisher %item into a glowing fountain, and, in turn, %hisher %item began to glow.
+While strolling around, %player encountered a fiery-hot forge, and proceeded to reinforce %hisher %item.
+Thinking %hisher %item is looking a bit tarnished, %player tried %hisher best to repair it.
+A demon approached and possessed %player's %item, to aid %player on %hisher quest.
+An angel approached and possessed %player's %item, to aid %player on %hisher quest.
+$dict:deity$, had decided to give %player an advantage by powering up %hisher %item.
+%player's %item was exposed to spontaneous and strong gamma radiation, and is now glowing a bright shade of green.
+%player used a soul gem to enchant %hisher %item at an enchantment table.
+%player took %hisher %item in for repairs, and it came out looking even better than before!
+%player was fighting FOEs, when %she suddenly figured out how to use %hisher %item better!
+%player decided to reinforce %hisher %item a bit with another material to make it a little stronger.
+%player added a magic gem to %hisher %item, which in turn strengthens %item!
+%player took %hisher %item to the Great Fairy Fountain, where the Great Fairy enhanced %hisher %item to make it better!
+%player finally figured out which end of %hisher %item was the business end, and is now wielding it with more proficiency!
+%player used what magic %she knows to imbue %hisher %item with extra power!
+Sarda, The Wizard Who Did It made %player's %item stronger to make fights more interesting.
+Zardoz, the Angel of Weird Sean Connery Movies enchanted %player's %item with the Spirit of the Loincloth-Beltsuit, making %hisher %item more...uh, different.
+%player came across a $dict:adjective$ $dict:noun$ and it helped %himher fix up %hisher %item.
+%player found a few statpoints after cleaning %hisher %item.
+The Order of the $dict:adjective$ $dict:noun$ convened to strengthen %player's %item.
+%player left %hisher %item with a friendly $dict:noun$ and found it in better shape.
+After a recent fight, the blood on %player's %item made it more badass.
+%player won a bet against a local $dict:noun$ who fixed up %hisher %item.
+%player combined %hisher %item with some greater newts %heshe found.
+%player gave a donation to some orphans. %Hisher %item began glowing!
+%player saw mold growing on %hisher %item, but %heshe realized that it made it stronger!
+An ancient god chose %player's %item as their holy weapon!
+%player activated an ancient artifact which blessed %hisher %item!
+%player etched a magical rune into %hisher %item.
+%player downloaded some RAM to apply to %hisher %item.
+%player spread a fantastical story about %hisher %item. The prestige magically empowered it!
+%player prayed to Fabius, God of Fashion, and he made %hisher %item fabulous.
+%player invaded an orphanage to sacrifice a few people to Ytilsu, the Grand Horror. Ytilsu empowered %hisher %item with void energy as payment for the meal.
+%player spent a month searching for Juk-Unth of Many Legs. Despite %hisher failure, Juk-Unth's minions decided to strengthen %hisher %item anyways.
+%player took part in a ritual for Fellatia, Goddess of Pleasure. She blessed %hisher %item by increasing its versatility in the bed and on the battlefield.
+%player took the time to disco with %hisher %item. The extra funk strengthened it!
+%player added $dict:reagent#0$ to %hisher %item. It started coursing with energy!
+%player made a potion using $dict:reagent#0$, $dict:reagent#1$, and a dash of $dict:reagent#2$. %Heshe poured this concotion onto %hisher %item. It gained a wonderful aura!

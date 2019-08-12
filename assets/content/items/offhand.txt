@@ -1,0 +1,135 @@
+# str
+"iMac" str=666 luk=-10
+
+# con
+"wooden board" con=1
+"shield" con=5
+"tower shield" con=7 defense=1
+"kite shield" con=20
+"aegis" con=37 aegis=1
+"turtle shell" con=59 defense=1
+"Holy Arms" con=777
+
+# str / con
+"girdle" str=1 con=2
+"targe" con=4 str=2
+"armlet" str=3 con=4
+"buckler" str=5 con=5
+"ward" str=5 con=9
+"round shield" con=12 str=2
+"bulwark" str=15 con=12
+"lunchbox" con=15 str=10
+"escutcheon" str=20 con=11
+"magic bubble" con=25 str=20 luk=1
+"shieldkind" con=31 str=20
+"iron ingot" con=43 str=20
+"mirror shield" str=30 con=42
+"barrier birds" str=58 con=20
+"tribal shield" str=50 con=40
+"riot shield" str=20 con=104
+"car door" str=30 con=105
+"cube of meat" con=100 str=50
+"phalanx shield" con=113 str=60
+"spiked targe" str=153 con=50
+"pavise" con=175 str=50 defense=1
+"large dragon's scale" str=200 con=50
+"Reinforced Chunk of Rust" con=100 str=350
+"Summoned Swords" str=400 con=70 offense=1
+"Hero's Shield" con=450 str=200 defense=1
+"Hoplon Guard" con=600 str=200 aegis=1
+"Smashing Board" con=300 str=400
+"Shield of Life" con=500 str=500 defense=1
+"The Moon" con=1000 str=200 defense=1
+
+# str / int
+"magic orb shield" str=103 int=40 luk=5
+
+# con / int
+"keyboard" con=30 int=10
+
+# con / agi
+"wing" con=17 agi=20 dance=1
+"clock" con=35 agi=20
+
+# int / str
+"upvote" int=200 str=-50
+
+# 3-stat
+"pie plate" dex=5 con=-3 agi=4
+"fender" con=20 dex=20 str=5
+"carapace" con=34 dex=10 agi=-5
+"baroque shield" str=100 con=100 dex=100
+"Companion Cube" con=280 int=100 sentimentality=200 luk=15
+"The Propugner" str=200 dex=200 con=400 defense=1
+
+# n-stat
+"garbage can lid" dex=5 con=1 str=2 luk=1
+"scutum" str=10 dex=10 con=10 int=10
+"parasol" str=20 dex=30 agi=40 con=50
+"Magnetic Field" str=-30 con=50 dex=50 int=50 luk=10
+"Shield of Five Stats" con=150 str=150 dex=150 agi=150 int=150
+
+# idle-class
+"Supersonic Shield of the Idling Gods" con=1000 str=1500 defense=1 aegis=1
+
+# godly-class
+"Solar System" con=3000
+
+# celestial something or another
+"Celestial Cover" str=1000 dex=1000 con=1000 agi=1000 luk=1000 glowing=1 defense=2
+
+# goatly-class
+"Manual for Adventurers Vol. 777 -Rented-" str=3000 con=3000 dex=3000 agi=2000 int=2500 luk=2000 xp=3 hp=500 mp=200 hpregen=100 mpregen=100 crit=5 prone=1 venom=1 poison=1 shatter=1 vampire=1 damageReduction=1000 gold=-1000 sentimentality=5000 dance=1 defense=1 offense=1 deadeye=1 lethal=1 silver=1 power=1 vorpal=1 aegis=1 glowing=3
+
+# artifacts
+"Fate's Kris" str=3000 con=3000 dex=3000 agi=3000 int=3000 luk=15000 xp=300 crit=100 glowing=20 cReqPretty_Cool_Looking_Dagger=1 cReqTwisted_Appendage=1 aReqTempterOfFate=1 sReqBossKills*Fate-Twisted_Lake_Monstrosity=5
+
+# custom
+"pool noodle" str=-55 int=-1 agi=120 luk=3
+"spell book" int=25
+"spell tome" int=125
+"towel" luk=25
+"encyclopedia" int=33
+"spell components" int=150 dex=5
+"torch" glowing=1
+"main gauche" agi=255
+"sword-breaker" agi=500 offense=1
+"lighter" int=3
+"turtle shell shield" str=50 con=40 luk=5
+"Kitako" crit=2 dance=1 lethal=1 dex=186 agi=146
+"skull" str=50 int=100
+"metal detector" luk=50 gold=50 agi=-100 con=-10
+"thurible" int=300
+"fart in a bag" int=100 agi=30 poison=1
+"mechanical keyboard" con=300 int=100
+"Meat Shield" con=40 str=15
+"hardened banana" str=5
+"barbell" str=20
+"vibrator" agi=10 dex=15
+"lightspeed vibrator" agi=99 dex=99
+"generic religious object" con=6 int=-6
+"portable forcefield" con=50 dex=50
+"flattened hundred leaf clover" luk=100 aegis=1
+"pot cover" con=2
+"chopping board" con=3 str=1 dex=1
+"disc of dirt" con=50
+"comatose dwarf" con=150
+"empty canvas" int=8
+"ice cream cone" con=5 int=5
+"sauce bottle" dex=17
+"trashy novel" con=100 int=-100
+"reinforced pancake" str=5
+"backup phone" int=9
+"Weatherproof Shield" con=300
+"offhand remark" int=1 offense=1
+"backhanded compliment" dex=25 int=5 offense=1
+"wall" con=250
+"castle wall" con=500 aegis=1
+"imaginary shield" aegis=1 con=-5
+"firewall" int=100 aegis=1
+"blackboard" con=10 int=50
+"pizza" con=15 agi=5 str=5
+"cheese wheel" con=35 str=15
+"sword cane" str=300 dex=30 int=300 mp=100
+"mini-cactus" str=650 con=-5 dex=100 agi=25 int=-1 hp=-1000 mp=50 shatter=1
+"can opener" str=1500 con=250 dex=150 int=1500 hp=525 hpregen=50 xp=1 aReqWalker=6

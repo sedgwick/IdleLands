@@ -1,0 +1,86 @@
+%player found a shiny rock and sold it for %gold gold!
+%player stumbled across $dict:placeholder$ and sold it for %gold gold!
+%player found a gold mine containing %gold bits of gold!
+%player found a pot of gold at the end of the rainbow, and it contained %gold gold pieces!
+%player sneezed on a rock, and cleaning it off revealed a golden lustre. It sold for %gold gold!
+%player went spelunking in a cave, and found a room full of ancient artifacts. %player also found %gold gold!
+%player won the lottery and gained %gold gold, after taxes of course.
+%player discovered what no alchemist could in many years: how to turn a bit of lead into %gold bits of gold.
+%player found some kind of high-technologic device, which %she proceeded to bash against a rock and then loots %gold bits of gold from inside.
+A friend of %player gave %himher %gold bits of gold, said something about a 'debt'... Well, that doesn't happen too often.
+The Goddess of Riches, Kirierath, caused it to rain gold down at %player only, and %she proceeded to pick up as much as %gold bits of gold.
+%player found a gold ingot with a lemon peel wrapped around it, and it was worth %gold gold!
+%player tripped into a lake, and discovered someone's secret stash of %gold gold.
+%player was rewarded %gold gold after having performed a generic fetch quest.
+%player made %gold gold selling snake oil.
+%player got a welfare check for %gold gold!
+%player found a wallet containing %gold gold while walking around. %She decided to keep the money after thinking about it briefly.
+%player wrote %hisher thoughts into a book, and ended up selling it for %gold gold!
+%player received %gold gold from a charity to help adventurers in need!
+%player was picking %hisher ears, when suddenly %gold gold coins fell out right into %hisher hands!
+%player pawned off some things %she didn't need for %gold gold!
+%player got a %gold gold reward for slaying a $random:monster$!
+%player looted a dungeon in $random:map$ for %gold gold. %She also managed to make it out of the dungeon safely.
+%player accidentally caught a criminal as the criminal was running through the streets. The city ended up paying %player %gold gold for catching the criminal!
+%player went and gathered various herbs and fruits, and sold them off for %gold gold!
+%player decided to play $random:player$ in chess for money, and ended up netting %gold gold from winning!
+%player managed to catch the Gold Fairie, who dropped %gold gold into %hisher hands before flying away!
+%player was given an experienced axe from the axe-fairy.  %player used the experienced axe to cut down a Golden Tree, using the woodsmelter to convert it into %gold gold.
+%player won second prize in a beauty contest and collected %gold gold!
+%player found a baby with candy lying on the ground.  %She picked it up, saw that the baby's candy was actually %gold gold!  After a few shifty glances around ensuring no one spotted %himher, %she dumped the "candy" into %hisher own gold stash then tossed the baby aside.
+%player's Great Aunt Myrtle just kicked the bucket, leaving %himher %gold gold in her will.  %player didn't even know %she had a Great Aunt Myrtle.
+%player fell on some hard times, and decided to sell a tooth to the tooth faerie for %gold gold.
+%player made a successful trade with some nearby townspeople!
+Sarda, The Wizard Who Did It gave %player %gold gold to shake up the economy.
+%player played the stock markets! %player profited with %gold gold.
+%player found %gold gold in a brownie sundae!
+%player dug up a Time Capsule! %player found %gold gold.
+A time anomaly made a few bank statements non-exist! The bank credited %player %gold gold.
+%player started a YouTube channel! %She received a payment of %gold gold.
+%player chanced upon some unicorn dung! %She found %gold gold in it.
+%player found the right end of a black hole! %She discovered %gold gold.
+%player worked a night guarding a VIP. %player is paid %gold gold. Good job.
+%player killed a caribou and crawls inside. %She found %gold gold in its stomach!
+%player starts eating moonrocks... a week later %she found %gold gold...
+%player yells insults at a passing god. $dict:deity$ thanks %himher with %gold gold.
+%player happened upon a dragon ride camp. %She spent two weeks learning to fly. Upon graduation, %player was awarded %gold gold for having top honours!
+%player logged onto %hisher computer and checked %hisher email. %She won several online lotteries gaining %gold gold!
+%player ate a vial of nuclear waste thus winning a bet! %player won %gold gold!  And cancer!
+%player smashed a parking meter with a stick, and absconded with the %gold gold inside it.
+%player took %gold gold from a passerby and ran away yelling "I'm a treasure hunter, not a thief!"
+%player found $random:item$ but decided it would be better off liquidated, so %heshe sold it for %gold gold.
+%player saw $random:party$ and found it to be the perfect time to loot %gold gold from them!
+%player checked under the couch cushions and found %gold gold!
+%pet got %player's attention to something buried underground. %player dug up some buried treasure worth %gold gold!
+A Fisherman of Claims dangled a dollar bill on a fishing pole in front of %player, he said 'Hey, got ya a dollar!'
+%player stuck %hisher hand in a vase of scorpions. %Heshe got the %gold gold and only 5 venomous stings.
+%player found a jar while walking. It not only had an angry hive of bees in it, but also %gold gold!
+%player purchased a treasure map, it led %himher to a buried pile of %gold gold!
+While singing along to Idliathlia's National anthem, %player found a wallet. Inside was an IOU cheque from Scrollback for being so unbelievably useless at times,   %player took the money and used it to buy something nice.
+%player idled for a month in a row! The nice Overlordmansir decided to give them a gift of %gold gold in exchange for their dedication.
+%player made a sperm donation and got %gold gold. What a relief that the spermbank didn't want to know where %heshe had that donation from.
+%player used a nearby $random:item$ as a pickaxe and found a lump of ore. The ore sold for %gold gold.
+%player decided to propose to %hisher best friend of 19 years. %player got rejected and was able to get a refund for the ring consisting of %gold gold!
+%player had a moment of confusion and thought to %himherself, "why does the memory implement the intelligent representative?" RNGesus overheard the thought of %player, and gave %himher %gold gold to shut up.
+%player learned how to fly. %She acquired %gold gold to fly away and never come back.
+%player met up with $random:player$ in $random:map$'s hottest bar. They had fun and won the karaoke event. %player won %gold gold!
+They were giving out free gold at the bank... lol, yeah right... %player robbed a bank and got %gold gold for free!
+%player slept with $random:monster#1$'s parents (not *that* kind of 'slept', you dirty bugger!) and $random:monster#1$ paid %player %gold gold!
+%player finished a quest and received %gold gold.
+%player's shadow pickpocketed a wandering $random:monster$ for %gold gold.
+%player sold %hisher collection of rare plates for %gold gold to Tytlous, The God of Breaking Fancy Dinnerware.
+%player tripped and landed face first on a pile of %gold gold coins.
+%player took the time to write a rhyme about the grime on the slime.
+%player found %gold gold on the ground.
+%player saved %gold gold by eating only stale ramen noodles for a week.
+%player acted for some obscure ad and made %gold gold!
+%player set up a goldfish trafficking operation and made %gold gold.
+%player bought some foreign money. After the economy crashed, %heshe made a total of %gold gold.
+%player spent a few hours playing the flute on the side of the road and made %gold gold!
+%player won the prize for most glass shards eaten in a minute. %heshe won %gold gold after paying medical bills.
+%player successfully extracted honeycomb from %hisher bees. %Heshe sold it for %gold gold!
+%player spent a day or two plucking strawberry seeds. %Heshe received %gold gold for %hisher effort.
+%player sold $dict:reagent#0$ for %gold gold!
+%player brewed a new potion using $dict:reagent#0$ and $dict:reagent#1$. %Heshe sold the patent for %gold gold!
+%player ate $dict:reagent#0$. Later that day, %heshe found a jeweled dingle in the toilet worth %gold gold!
+%player hit the cryptocurrency jackpot! %Heshe made %gold gold after accounting for all the outdated GPUs %heshe bought.

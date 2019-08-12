@@ -1,0 +1,116 @@
+# con
+"heart piece" con=50
+"heart container" con=150
+
+# int
+"pin" int=1
+"earring" int=8
+"talisman" int=10
+"quill" int=60
+"metronome" int=123
+"ooparts" int=199
+"Fox Rods" int=631
+
+# luck
+"4 leaf clover" luk=4
+"8 leaf clover" luk=8
+"Standard Monetary Unit" luk=45
+"12 leaf clover" luk=13
+
+# int
+"plume" int=10
+"magnifying glass" int=60
+"Jaffa Cake" int=420
+"Crystal Ball" int=640
+
+# int
+"bracelet" int=1
+"armband" int=2
+"plume" int=3
+"trinket" int=5
+"magic mirror"  int=7
+"pixane" int=10
+"blessed mess" int=11
+"skeleton key" int=15
+"credit card" int=18
+"whistle" int=20
+"sun stone" int=35
+"cross" int=45 silver=1
+"wooden stake" int=50 silver=1
+"candle" int=55
+"scroll" int=65
+"hoverpet" int=70
+"dollar" int=80
+"tentacle" int=100
+"brimstone" int=200
+"netherrack" int=150
+"Fuckin' Magnet" int=175
+"Guardian Angel" int=100 defense=1
+"Twilight Bracelet" int=300
+"Attorney's Badge" int=325
+"Nevermeltice" int=450
+"Everburn" int=650
+"Faithful Pet Wolf" int=750
+"Mask de Smith" int=850
+"Magnitude Pocketwatch" int=1000
+"Fuckin' Brackets" int=2275
+"Strange Oculus" int=3030
+
+# luck/int
+"bauble"  luk=1 int=7
+"bead"  luk=5 int=50
+"superstitious button" luk=50 int=100
+
+# str/int
+"10 pound earring" str=40 int=-5
+"Mirror Mirror" int=312 str=213
+
+# agi/int/luck
+"teleporter" agi=10 int=20 luk=3 dance=1
+
+# agi/int
+"Whole Rabbit" int=300 agi=100
+
+# int/luck
+"luckstone" int=16 luk=10
+"juju" int=30 luk=-5
+"sextant" int=69 luk=7
+"die-cast robot princess bubblegum" int=100 luk=8 power=1
+"Rabbit's Foot" int=150 luk=30
+
+# hybrid
+"prism" str=10 con=10 int=10 dex=10 luk=1
+"rainbow tear" str=100 con=100 int=100 luk=10 glowing=1
+
+# idle-class
+"Cosmic Charm of the Idling Gods" int=2500 dex=2500 vorpal=1 venom=1
+
+# godly-class
+"Black Hole" int=1500 dex=1500 con=500 str=1500 agi=1500
+"Time Crystal" int=3000 dex=2000 luk=1000 xp=10
+"Ancient Symbiote" str=4000 con=3000 agi=2000 int=-3000 luk=-500 damageReduction=500 venom=1
+"Abyssal Token" con=-2500 int=8500 luk=-1000 salvage=1 xp=-20
+
+# celestial something or another
+"Celestial Chess Piece" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1
+
+# goatly-class
+"Pact with Maxwell's Demon" str=1872 con=1016 dex=1824 agi=-273 int=13806 luk=1416 mp=207765 hpregen=8000 mpregen=-4000
+"Reality VM" str=5000 con=4000 dex=5000 agi=1000 int=2000 luk=3000 xp=25 hp=30000 gold=-10000 salvage=3
+
+# artifacts
+"Collection of Very Useful Things" str=-30 dex=-30 con=-30 agi=-30 int=-30 luk=-120 vector=5 cReqHodgepodge_Pocketwatch=1 cReqLast_Chance_Die=1 cReqRetractable_Pen=1 cReqMelted_Clock=1 cReqSilver_Compass=1 cReqChattering_Teeth cReqGiant's_Spyglass=1 cReqPoorly_Drawn_Map=1 
+
+# custom
+"loaded dice" luk=100
+"ship in a bottle" int=100 luk=10
+"lucky charm" luk=150
+"holy charm" luk=200
+"7 in 1 lucky charm" luk=65
+"ring of sparks" int=5
+"8 ball clover" luk=8 con=8
+"String of Glass Eyes" int=500 luk=800 salvage=1
+"jar of honey" con=150 int=200 luk=50 hpregen=500
+"lifeblood totem" con=500 int=100 hp=550 hpregen=-10
+"Sierpinski's Tetrahedron" int=3333 luk=333 xp=33
+"Menger Sponge" int=4444 luk=444 xp=44
